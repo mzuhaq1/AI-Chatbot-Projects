@@ -49,6 +49,14 @@ A detailed report including full implementation, testing, and screenshots (inclu
 
 👉 [View Full Report](docs/chatbot.pdf)
 
+## 📸 Screenshots
+
+### Ollama Model Running (TinyLlama)
+![Ollama Running](screenshots/ollama-running.png)
+
+### Chatbot Response
+![Chatbot Response](screenshots/chatbot-response.png)
+
 ## 🚀 How to Run
 
 ### Terminal Chatbot
