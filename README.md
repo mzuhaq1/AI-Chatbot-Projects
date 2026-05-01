@@ -43,6 +43,12 @@ This project demonstrates working with both lightweight and larger LLMs and sele
 - Comparing lightweight vs large AI models
 - Integrating Ollama with Python
 
+## 📄 Full Project Report
+
+A detailed report including full implementation, testing, and screenshots (including Phi4 execution) is available below:
+
+👉 [View Full Report](docs/chatbot.pdf)
+
 ## 🚀 How to Run
 
 ### Terminal Chatbot
